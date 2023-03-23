@@ -1,0 +1,20 @@
+.accordian {
+  background-color: gray;
+  min-width: 300px;
+  min-height: 40px;
+  border-radius: 5px;
+  color: white;
+  margin-left: 30px;
+}
+
+.headline {
+  text-align: center;
+}
+
+.error {
+  color: red;
+}
+
+.button {
+  margin: 10px;
+}
